@@ -1,6 +1,6 @@
 # project-bikesharing
 # Introduction
-
+The aim of the projects is to build a nural newtoek to prdict daily bike rental ridership.
 
 
 
