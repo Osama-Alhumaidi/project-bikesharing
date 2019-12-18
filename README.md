@@ -13,4 +13,4 @@ Scaling target variables\
 Splitting the data into training, testing, and validation sets\
 Time to build the network\
 Unit tests\
-Training the network\
+Training the network
